@@ -1,0 +1,22 @@
+.background-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Lobster';
+  font-size: 45px;
+}
+
+.languagefilterData-container {
+  display: flex;
+}
+
+.repositories-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 80vw;
+}

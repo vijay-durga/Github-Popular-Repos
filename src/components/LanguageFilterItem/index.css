@@ -1,0 +1,10 @@
+.language-list-Container {
+  list-style-type: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.button {
+  border: none 5px;
+  border-radius: 5px;
+}
